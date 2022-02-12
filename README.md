@@ -1,6 +1,6 @@
 # usdc-dashboard
 
-[capture](https://user-images.githubusercontent.com/98485373/153723395-121f75fb-afd1-481d-91bf-ce46ff68c637.png)
+(https://user-images.githubusercontent.com/98485373/153723395-121f75fb-afd1-481d-91bf-ce46ff68c637.png)
 
 ## Project setup!
 
