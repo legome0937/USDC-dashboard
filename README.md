@@ -1,6 +1,9 @@
 # usdc-dashboard
 
-## Project setup
+[capture](https://user-images.githubusercontent.com/98485373/153723395-121f75fb-afd1-481d-91bf-ce46ff68c637.png)
+
+## Project setup!
+
 
 ### Prerequisites
 - Node.js
